@@ -1,0 +1,20 @@
+[
+  {
+    "type": "法律文件類型1",
+    "description": "關於法律文件1的描述",
+    "NO": "文件1字號",
+    "validity": true,
+    "main": "文件1的重點內容",
+    "article": "相關法規條款1"
+  },
+  {
+    "type": "法律文件類型2",
+    "description": "關於法律文件2的描述",
+    "NO": "文件2字號",
+    "validity": false,
+    "main": "文件2的重點內容",
+    "article": "相關法規條款2"
+  }
+]
+
+
